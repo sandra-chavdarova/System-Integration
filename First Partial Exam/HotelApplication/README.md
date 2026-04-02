@@ -48,3 +48,6 @@
    - PUT /{id} - ажурира постоечки Room со податоците од телото на барањето
      - Само најавени корисници може да ажурираат соби
    - DELETE /{id} - брише постоечки Room според ID
+
+
+<img width="1104" height="917" alt="Hotel" src="https://github.com/user-attachments/assets/0f1f1af2-b127-465e-9cee-f88d36aadef7" />
