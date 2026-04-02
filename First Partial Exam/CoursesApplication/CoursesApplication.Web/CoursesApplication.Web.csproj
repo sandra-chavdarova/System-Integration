@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <UserSecretsId>aspnet-CoursesApplication.Web-781128a7-2840-4bbc-92c7-18f7dba618a5</UserSecretsId>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="9.0.7"/>
+        <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="9.0.7"/>
+        <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="9.0.7"/>
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Proxies" Version="9.0.7" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="9.0.7"/>
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.7"/>
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\CoursesApplication.Domain\CoursesApplication.Domain.csproj" />
+      <ProjectReference Include="..\CoursesApplication.Repository\CoursesApplication.Repository.csproj" />
+      <ProjectReference Include="..\CoursesApplication.Service\CoursesApplication.Service.csproj" />
+    </ItemGroup>
+
+</Project>
