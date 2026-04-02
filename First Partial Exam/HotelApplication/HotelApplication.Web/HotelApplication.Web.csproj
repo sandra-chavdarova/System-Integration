@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <UserSecretsId>aspnet-HotelApplication.Web-c6fced1e-7dff-49d7-b447-342c56615ab8</UserSecretsId>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Evolve" Version="3.4.0-alpha1" />
+        <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="9.0.14"/>
+        <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="9.0.14"/>
+        <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="9.0.14"/>
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Proxies" Version="9.0.7" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="9.0.14"/>
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.14"/>
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\HotelApplication.Domain\HotelApplication.Domain.csproj" />
+      <ProjectReference Include="..\HotelApplication.Repository\HotelApplication.Repository.csproj" />
+      <ProjectReference Include="..\HotelApplication.Service\HotelApplication.Service.csproj" />
+    </ItemGroup>
+
+</Project>
