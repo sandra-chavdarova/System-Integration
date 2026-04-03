@@ -5,5 +5,5 @@ namespace Web.Response;
 public record AttendanceResponse
 (
     string UserName,
-    Status Status
+    string Status
 );
