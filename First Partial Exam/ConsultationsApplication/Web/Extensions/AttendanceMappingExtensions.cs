@@ -10,7 +10,7 @@ public static class AttendanceMappingExtensions
     {
         return new AttendanceResponse(
             UserName: string.Concat(str0: a.User.FirstName, str1: " ", str2: a.User.LastName),
-            Status: a.Status
+            Status: a.Status.ToString()
         );
     }
 
