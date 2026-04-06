@@ -1,0 +1,18 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AHttpServiceCollectionExtensions_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2025_002E2_003Fresharper_002Dhost_003FSourcesCache_003F28f4b060cb488aa789f7b1cc881f18785b536a6d45659b12a21971984ed82e_003FHttpServiceCollectionExtensions_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AIActionResult_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2025_002E2_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003F55e21a39aed84c4985e60dac351c22e044c00_003Ffa_003Faf68e380_003FIActionResult_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AServicePropertyDiscoveryConvention_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2025_002E2_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003F363c1765261146f1a68840a2d3ce7e39291438_003F17_003Fc77b81cd_003FServicePropertyDiscoveryConvention_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/Hierarchy/Build/BuildTool/CustomBuildToolPath/@EntryValue">C:\Program Files\dotnet\sdk\9.0.312\MSBuild.dll</s:String>
+	<s:String x:Key="/Default/Environment/Hierarchy/Build/BuildTool/DotNetCliExePath/@EntryValue">C:\Program Files\dotnet\dotnet.exe</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=39b0faee_002Ddfdb_002D4d77_002Db301_002D6caf40445d5f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AttendanceControllerTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::AC118CC8-39FB-4DFD-9840-277B4D862DED::net9.0::TestExamIS.Tests.ControllersTests.AttendanceControllerTests&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::AC118CC8-39FB-4DFD-9840-277B4D862DED::net9.0::TestExamIS.Tests.ServicesITests.AttendanceServiceIntegrationTests&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::AC118CC8-39FB-4DFD-9840-277B4D862DED::net9.0::TestExamIS.Tests.ReflectionTests.ExtensionReflectionTests&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::AC118CC8-39FB-4DFD-9840-277B4D862DED::net9.0::TestExamIS.Tests.ServicesITests.ConsultationServiceIntegrationTests&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;ProjectFile&gt;AC118CC8-39FB-4DFD-9840-277B4D862DED/d:ControllersTests/f:ConsultationControllerTests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;AC118CC8-39FB-4DFD-9840-277B4D862DED/d:ReflectionTests/f:MapperReflectionTests.cs&lt;/ProjectFile&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

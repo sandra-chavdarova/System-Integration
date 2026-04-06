@@ -1,0 +1,425 @@
+[
+  {
+    "TestName": "AttendanceServiceIntegrationTests.Service_Should_ReturnNullForNonExistingId",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "AttendanceService",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:06:59.1636938+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "AttendanceServiceIntegrationTests.Service_Should_GetPagedResults",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "AttendanceService",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:07:00.9684631+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "AttendanceServiceIntegrationTests.Service_Should_UpdateAttendance",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "AttendanceService",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:07:02.5231618+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "AttendanceServiceIntegrationTests.Service_Should_DeleteAttendance",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "AttendanceService",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:07:04.4728718+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "AttendanceServiceIntegrationTests.Service_Should_UpdateReasonPath",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "AttendanceService",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:07:05.8580517+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "AttendanceServiceIntegrationTests.Service_Should_ReturnAllAttendances",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "AttendanceService",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:07:07.3347413+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "AttendanceServiceIntegrationTests.Service_Should_CreateAttendance",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "AttendanceService",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:07:08.9070182+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "AttendanceServiceIntegrationTests.Service_Should_GetAttendanceById",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "AttendanceService",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:07:10.2469003+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "AttendanceServiceIntegrationTests.Service_Should_IncrementConsultationStudentsOnCreate",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "AttendanceService",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:07:11.693934+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "ConsultationServiceIntegrationTests.Service_Should_GetConsultationById",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "ConsultationService",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:07:13.1632311+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "ConsultationServiceIntegrationTests.Service_Should_FilterByDate",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "ConsultationService",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:07:14.6284364+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "ConsultationServiceIntegrationTests.Service_Should_ReturnNullForNonExistingId",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "ConsultationService",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:07:16.1440055+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "ConsultationServiceIntegrationTests.Service_Should_GetPagedResults",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "ConsultationService",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:07:17.4519392+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "ConsultationServiceIntegrationTests.Service_Should_FilterByRoomNameAndDate",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "ConsultationService",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:07:18.9330613+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "ConsultationServiceIntegrationTests.Service_Should_DeleteConsultation",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "ConsultationService",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:07:20.4620878+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "ConsultationServiceIntegrationTests.Service_Should_ReturnAllConsultations",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "ConsultationService",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:07:22.0141308+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "ConsultationServiceIntegrationTests.Service_Should_FilterByRoomName",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "ConsultationService",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:07:23.5394444+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "ConsultationServiceIntegrationTests.Service_Should_UpdateConsultation",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "ConsultationService",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:07:24.9779493+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "ConsultationServiceIntegrationTests.Service_Should_CreateConsultation",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "ConsultationService",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:07:26.5062116+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "ConsultationServiceIntegrationTests.Service_Should_ThrowForNonExistingIdNotNull",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "ConsultationService",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:07:27.8545873+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "ExtensionReflectionTests.ConsultationExtensions_ToResponse_ShouldMapAllFields",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "Extensions",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:07:27.8714928+02:00",
+    "ErrorMessage": null,
+    "Points": 10
+  },
+  {
+    "TestName": "ExtensionReflectionTests.AttendanceExtensions_ToResponse_ShouldMapAllFields",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "Extensions",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:07:27.8757128+02:00",
+    "ErrorMessage": null,
+    "Points": 10
+  },
+  {
+    "TestName": "MapperReflectionTests.ConsultationMapper_DeleteAsync_ShouldReturnDeletedEntity",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "Mappers",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:07:29.3312394+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "MapperReflectionTests.AttendanceMapper_UploadReasonAsync_ShouldReturnCorrectFields",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "Mappers",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:07:30.8132453+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "MapperReflectionTests.ConsultationMapper_GetAllAsync_ShouldReturnList",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "Mappers",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:07:32.1031173+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "MapperReflectionTests.AttendanceMapper_GetAllByConsultationIdAsync_ShouldReturnList",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "Mappers",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:07:33.66201+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "MapperReflectionTests.AttendanceMapper_MarkAsAbsentAsync_ShouldSucceed",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "Mappers",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:07:34.972381+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "MapperReflectionTests.AttendanceMapper_RegisterAsync_ShouldReturnCorrectFields",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "Mappers",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:07:36.2798414+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "MapperReflectionTests.ConsultationMapper_UpdateAsync_ShouldReturnUpdatedFields",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "Mappers",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:07:37.6436146+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "MapperReflectionTests.ConsultationMapper_InsertAsync_ShouldReturnCorrectFields",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "Mappers",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:07:39.0668691+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "AttendanceControllerTests.MarkAsAbsent_ShouldReturn200",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "AttendanceController",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:07:42.387157+02:00",
+    "ErrorMessage": null,
+    "Points": 10
+  },
+  {
+    "TestName": "AttendanceControllerTests.Register_ShouldIncrementConsultationStudentCount",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "AttendanceController",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:07:43.9166169+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "AttendanceControllerTests.GetByConsultation_ShouldReturnJsonArrayWithExpectedFields",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "AttendanceController",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:07:47.3509956+02:00",
+    "ErrorMessage": null,
+    "Points": 10
+  },
+  {
+    "TestName": "AttendanceControllerTests.Register_ValidRequest_ShouldCreateAndReturnFields",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "AttendanceController",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:07:51.16613+02:00",
+    "ErrorMessage": null,
+    "Points": 10
+  },
+  {
+    "TestName": "AttendanceControllerTests.GetByConsultation_EmptyConsultation_ShouldReturnEmptyArray",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "AttendanceController",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:07:55.3244116+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "AttendanceControllerTests.Delete_ValidId_ShouldReturn200",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "AttendanceController",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:07:58.735168+02:00",
+    "ErrorMessage": null,
+    "Points": 10
+  },
+  {
+    "TestName": "AttendanceControllerTests.UploadCancelationReason_ShouldReturn200",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "AttendanceController",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:08:03.0894069+02:00",
+    "ErrorMessage": null,
+    "Points": 10
+  },
+  {
+    "TestName": "AttendanceControllerTests.Delete_InvalidId_ShouldReturnError",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "AttendanceController",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:08:07.0542963+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "ConsultationControllerTests.GetAll_ShouldReturnJsonArrayWithExpectedFields",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "ConsultationController",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:08:09.1251608+02:00",
+    "ErrorMessage": null,
+    "Points": 8
+  },
+  {
+    "TestName": "ConsultationControllerTests.Register_ShouldIncrementCount",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "ConsultationController",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:08:11.3631544+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "ConsultationControllerTests.Delete_InvalidId_ShouldReturnError",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "ConsultationController",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:08:13.7624982+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "ConsultationControllerTests.Delete_ValidId_ShouldDeleteAndReturn",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "ConsultationController",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:08:15.4218151+02:00",
+    "ErrorMessage": null,
+    "Points": 10
+  },
+  {
+    "TestName": "ConsultationControllerTests.Update_InvalidId_ShouldReturnError",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "ConsultationController",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:08:17.3432448+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "ConsultationControllerTests.Update_ValidRequest_ShouldUpdateAndReturnFields",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "ConsultationController",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:08:19.0933215+02:00",
+    "ErrorMessage": null,
+    "Points": 10
+  },
+  {
+    "TestName": "ConsultationControllerTests.Register_ValidRequest_ShouldCreateAndReturnFields",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "ConsultationController",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:08:20.7068795+02:00",
+    "ErrorMessage": null,
+    "Points": 10
+  },
+  {
+    "TestName": "ConsultationControllerTests.GetPaged_ShouldReturnPaginatedResponse",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "ConsultationController",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:08:22.6233564+02:00",
+    "ErrorMessage": null,
+    "Points": 10
+  },
+  {
+    "TestName": "ConsultationControllerTests.GetAll_WithRoomFilter_ShouldFilterResults",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "ConsultationController",
+    "IsPassed": true,
+    "ExecutedAt": "2026-04-05T21:08:25.7805229+02:00",
+    "ErrorMessage": null,
+    "Points": 7
+  }
+]
