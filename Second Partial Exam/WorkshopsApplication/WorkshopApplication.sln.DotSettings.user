@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Hierarchy/Build/BuildTool/DotNetCliExePath/@EntryValue">C:\Program Files\dotnet\dotnet.exe</s:String>
+	<s:String x:Key="/Default/Environment/Hierarchy/Build/BuildTool/CustomBuildToolPath/@EntryValue">C:\Program Files\dotnet\sdk\9.0.314\MSBuild.dll</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=95758998_002D1ebd_002D47b5_002Da0a2_002D2433b648ff05/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="EnvironmentConfigurationTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::16704BE9-094F-418F-AD55-3E919231AD15::net9.0::TestExamIS.Tests.ConfigurationTests.EnvironmentConfigurationTests&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;ProjectFile&gt;16704BE9-094F-418F-AD55-3E919231AD15/d:CacheTests/f:WorkshopCacheTests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFolder&gt;16704BE9-094F-418F-AD55-3E919231AD15/d:ExternalApiTests&lt;/ProjectFolder&gt;&#xD;
+    &lt;ProjectFile&gt;16704BE9-094F-418F-AD55-3E919231AD15/d:RateLimitTests/f:ExternalApiRateLimitTests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFolder&gt;16704BE9-094F-418F-AD55-3E919231AD15/d:EtlTests&lt;/ProjectFolder&gt;&#xD;
+    &lt;ProjectFile&gt;16704BE9-094F-418F-AD55-3E919231AD15/d:BackgroundServiceTests/f:EtlBackgroundServiceTests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;16704BE9-094F-418F-AD55-3E919231AD15/d:EmailTests/f:EmailServiceTests.cs&lt;/ProjectFile&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

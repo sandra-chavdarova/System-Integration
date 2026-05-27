@@ -1,0 +1,47 @@
+[
+  {
+    "TestName": "EmailServiceTests.EmailSettings_ShouldBeConfigured",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "Email",
+    "IsPassed": true,
+    "ExecutedAt": "2026-05-28T00:33:02.5093217+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "EmailServiceTests.IEmailQueue_ShouldBeRegisteredInDI",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "Email",
+    "IsPassed": true,
+    "ExecutedAt": "2026-05-28T00:33:04.5644193+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "EmailServiceTests.EmailBackgroundService_ShouldBeRegisteredAsHostedService",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "Email",
+    "IsPassed": false,
+    "ExecutedAt": "2026-05-28T00:33:06.440278+02:00",
+    "ErrorMessage": "An EmailBackgroundService must be registered as IHostedService",
+    "Points": 5
+  },
+  {
+    "TestName": "EmailServiceTests.EmailQueue_ShouldAcceptMessages",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "Email",
+    "IsPassed": true,
+    "ExecutedAt": "2026-05-28T00:33:08.3239392+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  },
+  {
+    "TestName": "EmailServiceTests.IEmailService_ShouldBeRegisteredInDI",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "Email",
+    "IsPassed": true,
+    "ExecutedAt": "2026-05-28T00:33:10.2255881+02:00",
+    "ErrorMessage": null,
+    "Points": 5
+  }
+]
