@@ -2,6 +2,9 @@
 # Систем за управување со работилници (Workshops)
 ## Втор колоквиум — Интегрирани системи (Вежба)
 
+Стартер код: [WorkshopApplicationStarter.zip](https://github.com/user-attachments/files/28350159/WorkshopApplicationStarter.zip)
+
+
 ---
 
 ## Контекст на апликацијата
