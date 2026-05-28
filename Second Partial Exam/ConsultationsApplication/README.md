@@ -1,6 +1,8 @@
 # Систем за управување со термини за консултации
 ### Втор колоквиум — Интегрирани системи
 
+Стартер код: [ConsultationsApplicationStarter.zip](https://github.com/user-attachments/files/28350118/ConsultationsApplicationStarter.zip)
+
 ---
 
 ## Контекст на апликацијата
